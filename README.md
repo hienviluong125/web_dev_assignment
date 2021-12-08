@@ -22,6 +22,8 @@
 
 #### Điểm cộng:
 - Tổ chức git commit & branch rõ ràng
+- Tổ chức code rõ ràng và có thể tái sử dụng
+- Có áp dụng các pattern
 - Có unit tests
 - Có hosting
 - Có pipeline trên gihub/gitlab/bitbucket để chạy test và tự động deploy
